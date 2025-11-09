@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif" width="800" alt="pixel art header" />
 </p>
 
-<h2 align="center">Freelance Frontend Developer | 📍 India</h2>
+<h2 align="center">Freelance Frontend Developer </h2>
 
 <p align="center">
   Proficient in <b>React</b> and <b>Next.js</b> ✔ <br>
