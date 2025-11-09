@@ -9,7 +9,6 @@
   Proficient in <b>React</b> and <b>Next.js</b> ✔ <br>
   Fluent in both <b>Hindi </b> and <b>English</b> ✔
 </p>
- ---
 
 <h3 align="center">Check my links below 👇</h3>
 
@@ -17,9 +16,6 @@
   <a href="https://preeti-dalai-dev.vercel.app/" target="_blank">📌 My Portfolio</a> •
   <a href="mailto:preetidalai940@gmail.com">📧 Send me an Email</a>
 </p>
-
----
----
 
 <table align="center">
   <tr>
