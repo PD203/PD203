@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/1tBXFwQH/header.gif" width="800" alt="pixel art header" />
 </p>
 
-<h2 align="center">Freelance Frontend Developer</h2>
+<h2 align="center">Freelance Frontend Developer | 📍 India</h2>
 
 <p align="center">
   Proficient in <b>React</b> and <b>Next.js</b> ✔ <br>
@@ -54,4 +54,8 @@
 
 <p align="center">
   <i>“Building smooth interfaces one pixel at a time.”</i>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7bb7806c15a8f3f2251a8b19ee3c4503cce80a92f039007004014c9fef479760/68747470733a2f2f692e706f7374696d672e63632f73324672675874672f666f6f7465722e676966" width="800" alt="pixel art header" />
 </p>
