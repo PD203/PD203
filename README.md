@@ -45,7 +45,7 @@
 
 </td>
 <td align="center" width="50%">
-  <img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png" width="300" alt="Dev Goku" />
+  <img src="https://res.cloudinary.com/dpfvh7e5x/image/upload/v1762674924/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon_1_ehbtxn.png" width="300" alt="Dev Goku" />
 </td>
   </tr>
 </table>
