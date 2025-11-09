@@ -15,7 +15,6 @@
 
 <p align="center">
   <a href="https://preeti-dalai-dev.vercel.app/" target="_blank">📌 My Portfolio</a> •
-  <a href="https://www.linkedin.com/in/preeti-dalai-06303b273/" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:preetidalai940@gmail.com">📧 Send me an Email</a>
 </p>
 
