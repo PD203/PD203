@@ -29,7 +29,7 @@
 ### 🛠️ Back
 
 - Node.js, Express  
-- MongoDB, Supabase  
+- MongoDB 
 - Firebase, Cloudinary  
 
 ### 📦 More
